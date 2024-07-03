@@ -1,0 +1,175 @@
+
+
+.bg-container {
+    background-color: #E2E7D5;
+    height: 28vh;
+    width: 100vw;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.heading {
+    font-family: bree serif;
+    color: #283747;
+    font-size: 55px;
+    text-align: left;
+    padding: 30px;
+}
+
+.head {
+    font-family: bree serif;
+    color: #283747;
+    font-size: 40px;
+    text-align: left;
+    padding: 10px;
+}
+
+
+.image-view8 {
+    height: 12vh;
+    width: 6vw;
+    padding: 20px;
+}
+
+.container {
+    padding: 30px;
+}
+
+.image-card {
+    margin: 30px;
+    padding: 20px;
+}
+
+.quotes {
+    font-family: Bree serif;
+    font-size: 80px;
+    color: #283747;
+    padding: 15px;
+}
+
+.paragraph {
+    font-family: bree serif;
+    color: #283747;
+    font-size: 25px;
+    text-align: center;
+    padding: 5px;
+}
+
+.para {
+    font-family: bree serif;
+    color: #283747;
+    font-size: 15px;
+    text-align: center;
+}
+
+.card-container {
+    height: 47vh;
+    width: 15vw;
+    margin: 30px;
+    background-color: #E2E7D5;
+}
+
+.para-graph {
+    text-align: center;
+    font-size: 15px;
+}
+
+.image-view3 {
+    height: 25vh;
+    width: 11vw;
+    margin: 10px;
+}
+
+.paring {
+    font-size: 10px;
+    text-align: center;
+}
+
+.btn-button {
+    height: 4vh;
+    width: 7vw;
+    background-color: #283747;
+    color: #ffffff;
+    border-radius: 20px;
+    border-width: 0px;
+    font-size: 10px;
+}
+
+.wish-cont {
+    font-family: bree serif;
+    color: black;
+}
+
+.bg-small-card-container {
+    background-color: #E2E7D5;
+    height: 57vh;
+    width: 95vw;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 30px;
+}
+
+.parag {
+    font-family: bree serif;
+    color: #283747;
+    font-size: 15px;
+    text-align: left;
+    padding: 10px;
+}
+
+.image-view2 {
+    height: 50vh;
+    width: 30vw;
+    margin: 20px;
+}
+
+.parg {
+    font-family: Roboto;
+    color: black;
+    font-size: 12px;
+    text-align: left;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.detail-container {
+    height: 60vh;
+    width: 100vw;
+    background-color: #283747;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 20px;
+}
+
+.head-ing {
+    font-family: bree serif;
+    color: #ffffff;
+    font-size: 55px;
+    text-align: left;
+    padding: 20px;
+}
+
+.para-p {
+    font-family: bree serif;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: left;
+    padding: 20px;
+}
+
+.words {
+    font-family: bree serif;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+}
+
+.brand {
+    padding: 60px;
+}
